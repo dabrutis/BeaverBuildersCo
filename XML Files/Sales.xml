@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row1>
+    <Cost>18542.02</Cost>
+    <Location>Online</Location>
+    <SoldProduct>2 Story House</SoldProduct>
+  </row1>
+  <row2>
+    <Cost>23485.84</Cost>
+    <Location>Salem, Oregon</Location>
+    <SoldProduct>3 Story House</SoldProduct>
+  </row2>
+  <row3>
+    <Cost>183042.38</Cost>
+    <Location>Joseph, Oregon</Location>
+    <SoldProduct>Skyscraper</SoldProduct>
+  </row3>
+</root>

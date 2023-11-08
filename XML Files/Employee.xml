@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row1>
+    <EmployeeID>1</EmployeeID>
+    <Salary>18.75</Salary>
+    <Role>Sales Agent</Role>
+  </row1>
+  <row2>
+    <EmployeeID>2</EmployeeID>
+    <Salary>17.5</Salary>
+    <Role>Construction Worker</Role>
+  </row2>
+  <row3>
+    <EmployeeID>3</EmployeeID>
+    <Salary>19</Salary>
+    <Role>Logistics Supervisor</Role>
+  </row3>
+</root>

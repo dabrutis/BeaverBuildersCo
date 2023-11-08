@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row1>
+    <Location>123 Witch St, Salem</Location>
+    <Demographic>Human</Demographic>
+    <PurchaseFrequency>1</PurchaseFrequency>
+  </row1>
+  <row2>
+    <Location>456 Straight Rd, Bend</Location>
+    <Demographic>Human</Demographic>
+    <PurchaseFrequency>3</PurchaseFrequency>
+  </row2>
+  <row3>
+    <Location>789 Mary Ln, Joseph</Location>
+    <Demographic>Human</Demographic>
+    <PurchaseFrequency>2</PurchaseFrequency>
+  </row3>
+</root>

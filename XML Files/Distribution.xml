@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row1>
+    <Location>Joseph, Oregon</Location>
+    <Transportation>Train</Transportation>
+    <OrderFulfillment>0.429</OrderFulfillment>
+  </row1>
+  <row2>
+    <Location>Bend, Oregon</Location>
+    <Transportation>Truck</Transportation>
+    <OrderFulfillment>0.853</OrderFulfillment>
+  </row2>
+  <row3>
+    <Location>Ashland, Oregon</Location>
+    <Transportation>Truck</Transportation>
+    <OrderFulfillment>0.573</OrderFulfillment>
+  </row3>
+</root>

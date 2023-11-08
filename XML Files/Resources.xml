@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row1>
+    <Cost>-12923.65</Cost>
+    <Source>Salem Recycling Center</Source>
+    <RawMaterial>Toothpicks</RawMaterial>
+  </row1>
+  <row2>
+    <Cost>-1923.99</Cost>
+    <Source>Bend's Craft Store</Source>
+    <RawMaterial>Edible Glue</RawMaterial>
+  </row2>
+  <row3>
+    <Cost>-5690.12</Cost>
+    <Source>Joseph's Home Depot</Source>
+    <RawMaterial>Concrete</RawMaterial>
+  </row3>
+</root>
